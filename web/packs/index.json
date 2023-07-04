@@ -1,6 +1,9 @@
 {
   "packs": [
-    "dingus.json"
+    "dingus.json",
+    "RageMemes.json",
+    "PokemonMemeFace.json",
+    "Pokemans.json"
   ],
   "homeserver_url": "https://matrix.kinsel-web.de"
 }
