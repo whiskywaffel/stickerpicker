@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "dingus.json"
+  ],
+  "homeserver_url": "https://matrix.kinsel-web.de"
+}
